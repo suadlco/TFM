@@ -3,7 +3,7 @@ El objetivo de este trabajo es crear modelos de machine learning de metástasis 
 
 ### Obtención de Datos
 
-Los datos con los que se trabaja no están disponibles debido a su tamaño, pero se pueden conseguir ejecutando los archivos `PRAD-data-cleaning.R` y `BRCA-data-cleaning.R`.
+Los datos con los que se trabaja no están disponibles en el repositorio debido a su tamaño, pero se pueden conseguir ejecutando los archivos `PRAD-data-cleaning.R` y `BRCA-data-cleaning.R`.
 
 #### Pasos para Obtener los Datos:
 
@@ -11,7 +11,7 @@ Los datos con los que se trabaja no están disponibles debido a su tamaño, pero
    - `PRAD-data-cleaning.R`
    - `BRCA-data-cleaning.R`
 
-2. **Ejecutar los Scripts**: Para obtener los datos, simplemente ejecuta los scripts mencionados, adaptando el nombre del directorio. Estos scripts están diseñados para:
+2. **Ejecutar los Scripts**: Para obtener los datos, simplemente hay que ejecutar los scripts mencionados, adaptando el nombre del directorio base. Estos scripts están diseñados para:
    - Descargar los datos brutos.
    - Guardar los datos en el formato requerido para el análisis posterior.
 
