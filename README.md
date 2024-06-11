@@ -7,7 +7,7 @@ Los datos con los que se trabaja no están disponibles en el repositorio debido 
 
 #### Pasos para Obtener los Datos:
 
-1. **Archivos de Limpieza de Datos**: Los datos no están incluidos directamente en el repositorio debido a su gran tamaño. En su lugar, se proporcionan scripts de extracción de datos que se deben ejecutar para obtener los datos procesados. Estos scripts son:
+1. **Archivos de Extracción de Datos**: Los datos no están incluidos directamente en el repositorio debido a su gran tamaño. En su lugar, se proporcionan scripts de extracción de datos que se deben ejecutar para obtener los datos procesados. Estos scripts son:
    - `PRAD-data-cleaning.R`
    - `BRCA-data-cleaning.R`
 
